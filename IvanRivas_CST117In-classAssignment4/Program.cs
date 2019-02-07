@@ -16,7 +16,7 @@ namespace IvanRivas_CST117In_classAssignment4
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new secondsConverter());
         }
     }
 }
